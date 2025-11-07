@@ -1,6 +1,8 @@
+package DSA.Linear.Bubble;
+
 public class Bubble3 {
     public static void main(String[] args) {
-        // shift all zero toward end
+
         int[] number = { 1, 2, 0, 3, 4, 0, 5, 0 };
         for (int i = 0; i < number.length - 1; i++) {
             for (int j = 0; j < number.length - 1; j++) {

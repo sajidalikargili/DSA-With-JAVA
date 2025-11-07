@@ -6,6 +6,7 @@ public class linear1 {
         for (int i = 0; i < numbers.length - 1; i++) {
             if (numbers[i] == targetValue) {
                 System.out.println("Value found at index  " + i + " is " + numbers[i]);
+
             }
         }
     }
