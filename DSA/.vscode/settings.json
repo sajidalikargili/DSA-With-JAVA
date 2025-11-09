@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "LinearSearch",
+        "InsertionSort",
+        "BubbleSort",
+        "SelectionSort"
+    ]
+}

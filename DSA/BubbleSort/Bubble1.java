@@ -1,6 +1,7 @@
 public class Bubble1 {
     public static void main(String[] args) {
-        int[] number = { -2, 4, 5, 6, 2, 1, 7 };
+        // int[] number = { -2, 4, 5, 6, 2, 1, 7 };
+        int[] number = { 7, 3, 4, 7, 8, 1 };
         // sort the array is ascending order the cod of
         // -2 1 2 4 5 6 7
         int swaps = 0;

@@ -1,8 +1,7 @@
-package DSA.InsertionSort;
-
 public class Insertion1 {
     public static void main(String[] args) {
-        int[] number = { 8, 4, 1, 9, -3, 6, 5 };
+        // int[] number = { 8, 4, 1, 9, -3, 6, 5 };
+        int[] number = { 7, 3, 4, 7, 8, 1 };
         for (int i = 0; i < number.length; i++) {
             int min = number[i];
             int mindx = i;
