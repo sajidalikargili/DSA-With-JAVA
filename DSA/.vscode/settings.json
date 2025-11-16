@@ -4,6 +4,7 @@
         "LinearSearch",
         "InsertionSort",
         "BubbleSort",
-        "BinearySearch"
+        "BinearySearch",
+        "Pattern"
     ]
 }
